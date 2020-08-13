@@ -1,0 +1,8 @@
+if encounter the problem failed to load jvm dll bin server jvm.dll intellij
+echo %PATH%
+echo %JAVA_HOME%
+
+jre,jdk should be set as env variable in path
+
+
+search by google in mkyong or stack overflow
